@@ -9,5 +9,6 @@ First project structure:
 
 In the second project we used BeautifulSoup function to scrap some information from web shop site. 
 Second project structure:
-1. Importing BeautifulSoup, 
+1. Importing BeautifulSoup,webdriver from selenium, csv
+2. Extract th
 
